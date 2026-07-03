@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAZ0RBLAD3
-- 👀 I’m interested in ... video games, anime, and manga
+- 👀 I’m interested in ... Entomology, herpetology, and botany
 - 🌱 I’m currently learning ... biology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... developing biological statistics systems. 
 - 📫 How to reach me ... Twitter: @raz0r_blad3 Reddit: u/RAZ0R_BLAD3_15
 
 <!---
